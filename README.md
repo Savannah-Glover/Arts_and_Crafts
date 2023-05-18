@@ -15,6 +15,7 @@ My goal in this project was to make my webpage look as accurate to the specifica
 
 ## File Structure
 
+```
 ── index.html
 ├── resources
 │   ├── css
@@ -25,3 +26,4 @@ My goal in this project was to make my webpage look as accurate to the specifica
 │       ├── hacksaw.jpeg
 │       └── pattern.jpeg
 ├── Website_Specifications.webp
+```
